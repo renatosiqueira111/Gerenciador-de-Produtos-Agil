@@ -1,3 +1,5 @@
+=============================================== Gerenciador de Produtos Agil Store ===============================================
+
 Vídeo de como clonar o projeto e rodá-lo localmente (vídeo com 40 segundos de duração total):
                                             ![141985](https://github.com/user-attachments/assets/0dac0ee6-56c3-45b5-9a27-00dece825b39)
 
