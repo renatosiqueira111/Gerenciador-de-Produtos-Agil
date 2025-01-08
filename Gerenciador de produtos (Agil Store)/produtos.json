@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "nome": "iphone pro max 16",
+    "categoria": "celular",
+    "quantidade": 400,
+    "preco": 5923
+  },
+  {
+    "id": 1,
+    "nome": "TV 42 polegadas",
+    "categoria": "televisao",
+    "quantidade": 553,
+    "preco": 1300
+  }
+]
