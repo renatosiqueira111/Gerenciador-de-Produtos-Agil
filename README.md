@@ -8,7 +8,7 @@ Ou caso prefira, abaixo estão as instruções de como clonar o projeto e rodá-
 1 - Com o VScode (ou similar) aberto, abrir o terminal e executar o comando 'git clone https://github.com/renatosiqueira111/Gerenciador-de-Produtos-Agil.git';
 2 - Em seguida, acessar a pasta onde se encontra o arquivo index.js e executar, via terminal, o comando 'node index.js' e a partir daí poderá utilizar das funcionalidades do código.
 
-Abaixo está um vídeo de demonstração que percorre por todas das funcionalidades (que são elas adicionar produto; listar produtos; atualizar; excluir e buscar, como solicitado no email do desafio) do código:
+Abaixo está um vídeo de demonstração que percorre por todas das funcionalidades (que são elas: adicionar produto; listar produtos; atualizar; excluir e buscar, como solicitado no email do desafio) do código:
 
 https://github.com/user-attachments/assets/aa664b8e-2cb5-43ab-879e-12a9cd8bcb39
 
